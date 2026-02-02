@@ -1,4 +1,4 @@
-# 💼 Career Event Attendance Cohort Analysis 2025
+# 💼 Career Event Attendance Cohort Analysis (Python & SQL)
 
 SQL, Python and Tableau analysis of real event attendance data to identify drivers of no-shows and improve attendance to 40%+.
 
