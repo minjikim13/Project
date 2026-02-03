@@ -58,8 +58,7 @@ Final dataset: 188 valid registrations.
 ## Repository Structure
 
 - notebooks/: Python analysis and SQL cohort analysis
-- sql/: SQL queries used for analysis
-- data/: raw and cleaned datasets
+- data/cleand: raw and cleaned datasets
 - tableau/: dashboard and screenshots
 
 [Tableau Dashboard]
